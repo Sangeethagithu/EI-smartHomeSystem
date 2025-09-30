@@ -98,7 +98,8 @@ Add device:
 
  ![image alt](https://github.com/Sangeethagithu/EI-smartHomeSystem/blob/dd7a0e3a44990002db685fafba2fd203f529e8d3/Screenshot%202025-09-30%20220855.png)
 
-  ![image alt](https://github.com/Sangeethagithu/EI-smartHomeSystem/blob/dd7a0e3a44990002db685fafba2fd203f529e8d3/Screenshot%202025-09-30%20220855.png)
+
+  ![image alt](https://github.com/Sangeethagithu/EI-smartHomeSystem/blob/833572bfe1e1ad6e1dbab93f7ea2c7099b6cd638/Screenshot%202025-09-30%20220925.png)
  
 Create and show schedule:
  
