@@ -59,5 +59,18 @@ Behavioral Pattern – Observer for device state updates
 
 ---
 Example:
+These are the commands:
 ![image alt](https://github.com/Sangeethagithu/EI-smartHomeSystem/blob/ffc5e9b8a7d51d2c4fbfd41d9e7417c58ebd20f5/Screenshot%202025-09-30%20212245.png)
+
+Proxy Pattern:
+This system has role-based-access control.It has 2 roles: Guest and admin.
+Only admin can control the devices ,Guest cannot change the state of the devices.
+
+![image alt](https://github.com/Sangeethagithu/EI-smartHomeSystem/blob/18632a76e843a98577075c99be5a3dfc795aeafa/Screenshot%202025-09-30%20211544.png)
+
+![image alt]()
+
+![image alt]()
+
+
 
