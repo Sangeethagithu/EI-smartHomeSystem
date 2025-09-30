@@ -1,22 +1,16 @@
 # Smart Home System – Design Patterns 
+This project simulates a Smart Home System where users can control devices like Lights, Thermostats, and Door Locks through a central hub.  
+The focus is to demonstrate Object-Oriented Programming and the application of Design Patterns commonly expected in real-world software development.
 
-
-This project simulates a **Smart Home System** where users can control devices like **Lights**, **Thermostats**, and **Door Locks** through a central hub.  
-The focus is to demonstrate **Object-Oriented Programming** and the application of **Design Patterns** commonly expected in real-world software development.
-
-**Creational Pattern** – Factory for creating devices  
-**Structural Pattern** – Proxy for secure access control (role based access control)
-**Behavioral Pattern** – Observer for device state updates  
-
+Creational Pattern – Factory for creating devices  
+Structural Pattern – Proxy for secure access control (role based access control)
+Behavioral Pattern – Observer for device state updates  
 ---
-
 ## Tech Stack
-- **Java 17+**
-- **Maven** (build tool)
+- Java 17+
+- Maven (build tool)
 - Console-based (menu-driven CLI)
-
 ---
-
 ## Setup & Run
 1. Clone or download this repository.
 2. Open a terminal inside the project folder.
@@ -26,16 +20,16 @@ The focus is to demonstrate **Object-Oriented Programming** and the application 
 
 ## Feature
 
-- **Device Management (Factory Pattern)**  
+- *Device Management (Factory Pattern)**  
   - Devices like **Light**, **Thermostat**, and **Door Lock** are created dynamically through a central `DeviceFactory`.  
   - This ensures the system is **easily extensible** — new device types can be added without modifying existing logic.
 
-- **Secure Access Control (Proxy Pattern)**  
+- *Secure Access Control (Proxy Pattern)**  
   - Sensitive operations (e.g., **unlocking doors**) are controlled via a `SecureDeviceProxy`.  
   - Only **Admin** role can execute high-privilege commands, while **Guest** role is restricted.  
   - This simulates **real-world authentication & authorization** in IoT systems.
 
-- **Event Notifications (Observer Pattern)**  
+- *Event Notifications (Observer Pattern)**  
   - Every device state change automatically notifies observers.  
   - Example: Turning on a light logs:  
     ```
@@ -43,25 +37,25 @@ The focus is to demonstrate **Object-Oriented Programming** and the application 
     ```  
   - This decouples device logic from monitoring and highlights **event-driven design**.
 
-- **Automation with Triggers**  
+- *Automation with Triggers**  
   - Users can define conditional rules for automation.  
   - Example: *If thermostat temperature > 25 → turn off Light 1*.  
   - Devices can **react to each other** without manual input.
 
-- **Smart Scheduling**  
+- *Smart Scheduling**  
   - Devices can be scheduled to run at specific times.  
   - Supports both **manual simulation** (`runNow`) and **real-time execution** using Java’s `ScheduledExecutorService`.  
   - Example: *Turn on Light 1 at 06:00 automatically*.
 
-- **Central Hub (Menu-Driven CLI)**  
+- *Central Hub (Menu-Driven CLI)**  
   - A single **Hub** manages all devices, schedules, and triggers.  
   - User-friendly **menu interface** makes it simple to add/remove devices, set schedules, or check status.  
   - Acts like a **smart home controller** in a simplified simulation.
 
-- **Extensible & Maintainable (SOLID Principles)**  
-  - **Single Responsibility** → Each class (Hub, DeviceFactory, Proxy, Observer) has a focused role.  
-  - **Open-Closed Principle** → New device types can be added without changing existing code.  
-  - **Polymorphism** → All devices share a base `SmartDevice` interface, making the system consistent and scalable.
+- *Extensible & Maintainable (SOLID Principles)**  
+  - *Single Responsibility** → Each class (Hub, DeviceFactory, Proxy, Observer) has a focused role.  
+  - *Open-Closed Principle** → New device types can be added without changing existing code.  
+  - *Polymorphism** → All devices share a base `SmartDevice` interface, making the system consistent and scalable.
 
 ---
 
