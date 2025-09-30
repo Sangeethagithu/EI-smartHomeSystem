@@ -68,6 +68,7 @@ Only admin can control the devices ,Guest cannot change the state of the devices
 
 ![image alt](https://github.com/Sangeethagithu/EI-smartHomeSystem/blob/18632a76e843a98577075c99be5a3dfc795aeafa/Screenshot%202025-09-30%20211544.png)
 
+
 ![image alt](https://github.com/Sangeethagithu/EI-smartHomeSystem/blob/5e7bbadc05a57af655cafe21efddb7c40a492d6e/Screenshot%202025-09-30%20211624.png)
 
 ![image alt](https://github.com/Sangeethagithu/EI-smartHomeSystem/blob/6fa6a77165c295f7bcf11979ce17b21f26f14e17/Screenshot%202025-09-30%20211701.png)
@@ -75,14 +76,33 @@ Only admin can control the devices ,Guest cannot change the state of the devices
 Trigger:
 Add devices:
  ![image alt](https://github.com/Sangeethagithu/EI-smartHomeSystem/blob/99da8b91fbf129fbee94d05e93cf177094d69e1a/Screenshot%202025-09-30%20220222.png)
+ 
   ![image alt](https://github.com/Sangeethagithu/EI-smartHomeSystem/blob/947608d9ee1146c953992410e88ac8cafe86faff/Screenshot%202025-09-30%20220245.png)
  
 Create  and show trigger:
+
+
  ![image alt](https://github.com/Sangeethagithu/EI-smartHomeSystem/blob/91290b6ba4882f18e10ea20209fd39e973c44fee/Screenshot%202025-09-30%20220311.png)
+
+ 
   ![image alt](https://github.com/Sangeethagithu/EI-smartHomeSystem/blob/9be83b420b4b6298a98c8d1fce85f349890c7e90/Screenshot%202025-09-30%20220328.png)
  
 Effect of trigger:
+
+
  ![image alt](https://github.com/Sangeethagithu/EI-smartHomeSystem/blob/ae60629390be94511a6c88135416826c19eab423/Screenshot%202025-09-30%20220349.png)
+ 
+
+Schedule:
+Add device:
+ 
+Create and show schedule:
+ 
+ 
+Run schedule Now and check status:
+ 
+ 
+
 
 
 
