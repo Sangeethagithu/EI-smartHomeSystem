@@ -82,7 +82,7 @@ Create  and show trigger:
   ![image alt](https://github.com/Sangeethagithu/EI-smartHomeSystem/blob/9be83b420b4b6298a98c8d1fce85f349890c7e90/Screenshot%202025-09-30%20220328.png)
  
 Effect of trigger:
- ![image alt]()
+ ![image alt](https://github.com/Sangeethagithu/EI-smartHomeSystem/blob/ae60629390be94511a6c88135416826c19eab423/Screenshot%202025-09-30%20220349.png)
 
 
 
