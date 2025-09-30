@@ -95,6 +95,10 @@ Effect of trigger:
 
 Schedule:
 Add device:
+
+ ![image alt](https://github.com/Sangeethagithu/EI-smartHomeSystem/blob/dd7a0e3a44990002db685fafba2fd203f529e8d3/Screenshot%202025-09-30%20220855.png)
+
+  ![image alt](https://github.com/Sangeethagithu/EI-smartHomeSystem/blob/dd7a0e3a44990002db685fafba2fd203f529e8d3/Screenshot%202025-09-30%20220855.png)
  
 Create and show schedule:
  
