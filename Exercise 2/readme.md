@@ -72,5 +72,18 @@ Only admin can control the devices ,Guest cannot change the state of the devices
 
 ![image alt](https://github.com/Sangeethagithu/EI-smartHomeSystem/blob/6fa6a77165c295f7bcf11979ce17b21f26f14e17/Screenshot%202025-09-30%20211701.png)
 
+Trigger:
+Add devices:
+ ![image alt]()
+  ![image alt]()
+ 
+Create  and show trigger:
+ ![image alt]()
+  ![image alt]()
+ 
+Effect of trigger:
+ ![image alt]()
+
+
 
 
