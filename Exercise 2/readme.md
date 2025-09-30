@@ -109,7 +109,9 @@ Create and show schedule:
  
  
 Run schedule Now and check status:
- 
+ ![image alt](https://github.com/Sangeethagithu/EI-smartHomeSystem/blob/74acb0aea5bfcfab8b825b36af8c8d0d891b1eb0/Screenshot%202025-09-30%20221022.png)
+
+  ![image alt]()
  
 
 
