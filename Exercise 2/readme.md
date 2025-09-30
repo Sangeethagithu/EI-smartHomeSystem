@@ -78,7 +78,7 @@ Add devices:
   ![image alt](https://github.com/Sangeethagithu/EI-smartHomeSystem/blob/947608d9ee1146c953992410e88ac8cafe86faff/Screenshot%202025-09-30%20220245.png)
  
 Create  and show trigger:
- ![image alt]()
+ ![image alt](https://github.com/Sangeethagithu/EI-smartHomeSystem/blob/91290b6ba4882f18e10ea20209fd39e973c44fee/Screenshot%202025-09-30%20220311.png)
   ![image alt]()
  
 Effect of trigger:
