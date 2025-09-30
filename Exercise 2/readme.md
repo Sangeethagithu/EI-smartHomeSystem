@@ -70,7 +70,7 @@ Only admin can control the devices ,Guest cannot change the state of the devices
 
 ![image alt](https://github.com/Sangeethagithu/EI-smartHomeSystem/blob/5e7bbadc05a57af655cafe21efddb7c40a492d6e/Screenshot%202025-09-30%20211624.png)
 
-![image alt](https://github.com/Sangeethagithu/EI-smartHomeSystem/blob/0ec02e97a931060bba7de5c03099ed3f681da93d/Screenshot%202025-09-30%20211624.png)
+![image alt](https://github.com/Sangeethagithu/EI-smartHomeSystem/blob/6fa6a77165c295f7bcf11979ce17b21f26f14e17/Screenshot%202025-09-30%20211701.png)
 
 
 
