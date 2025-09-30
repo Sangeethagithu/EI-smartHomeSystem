@@ -71,11 +71,18 @@ Only admin can control the devices ,Guest cannot change the state of the devices
 
 ![image alt](https://github.com/Sangeethagithu/EI-smartHomeSystem/blob/5e7bbadc05a57af655cafe21efddb7c40a492d6e/Screenshot%202025-09-30%20211624.png)
 
+
+
 ![image alt](https://github.com/Sangeethagithu/EI-smartHomeSystem/blob/6fa6a77165c295f7bcf11979ce17b21f26f14e17/Screenshot%202025-09-30%20211701.png)
 
 Trigger:
 Add devices:
+
+
+
  ![image alt](https://github.com/Sangeethagithu/EI-smartHomeSystem/blob/99da8b91fbf129fbee94d05e93cf177094d69e1a/Screenshot%202025-09-30%20220222.png)
+
+
  
   ![image alt](https://github.com/Sangeethagithu/EI-smartHomeSystem/blob/947608d9ee1146c953992410e88ac8cafe86faff/Screenshot%202025-09-30%20220245.png)
  
@@ -101,6 +108,9 @@ Add device:
 
  
 Create and show schedule:
+
+
+
   ![image alt](https://github.com/Sangeethagithu/EI-smartHomeSystem/blob/833572bfe1e1ad6e1dbab93f7ea2c7099b6cd638/Screenshot%202025-09-30%20220925.png)
 
   
@@ -109,9 +119,12 @@ Create and show schedule:
  
  
 Run schedule Now and check status:
+
+
  ![image alt](https://github.com/Sangeethagithu/EI-smartHomeSystem/blob/74acb0aea5bfcfab8b825b36af8c8d0d891b1eb0/Screenshot%202025-09-30%20221022.png)
 
-  ![image alt]()
+
+  ![image alt](https://github.com/Sangeethagithu/EI-smartHomeSystem/blob/8b2e7ab9c47d89ca0ddeb0c241334a359009d4b9/Screenshot%202025-09-30%20221051.png)
  
 
 
