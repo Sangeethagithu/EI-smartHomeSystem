@@ -59,7 +59,10 @@ Behavioral Pattern – Observer for device state updates
 
 ---
 Example:
-These are the commands:
+These are the commands used in Smart Home System:
+
+
+
 ![image alt](https://github.com/Sangeethagithu/EI-smartHomeSystem/blob/ffc5e9b8a7d51d2c4fbfd41d9e7417c58ebd20f5/Screenshot%202025-09-30%20212245.png)
 
 Proxy Pattern:
