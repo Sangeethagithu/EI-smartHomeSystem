@@ -9,8 +9,6 @@ The project demonstrates Object-Oriented Programming (OOP), Design Patterns, and
 
 ---
 
----
-
 ## Exercises Overview
 
 ### Exercise 1 – Design Pattern Demos
@@ -44,10 +42,15 @@ Features
 - Apply Proxy for role-based access (admin vs guest).  
 - Keep all devices updated via Observer pattern.
 
-It has its own READ.md with:
+It has its own README.md with:
 Overview-> Tech Stack-> Feature -> Example(with Screenshots)
 
 ---
+### Author
+
+Developed by Sangeetha Priya
+📧 Gmail: ssp04sankar@gmail.com
+🐙 GitHub: Sangeethagithu
 
 
 
