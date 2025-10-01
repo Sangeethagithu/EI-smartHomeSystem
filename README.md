@@ -42,12 +42,13 @@ Features
 - Automate actions with Schedules (time-based).  
 - Add Triggers (event-based, e.g., temp > 25 → turn off light).  
 - Apply Proxy for role-based access (admin vs guest).  
-- Keep all devices updated via Observer pattern.  
+- Keep all devices updated via Observer pattern.
+
+It has its own READ.md with:
+Overview-> Tech Stack-> Feature -> Example(with Screenshots)
 
 ---
 
-## Demo Examples
 
-### Example – Adding Devices
 
 
