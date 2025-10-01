@@ -32,7 +32,9 @@ Overview →  Problem →  Solution → Example → Output
 ---
 
 ### Exercise 2 – Smart Home System
-A menu-driven Java simulation of a Smart Home Hub that manages devices.
+The Smart Home System is a console-based Java application that simulates a smart home environment.  
+It enables users to control devices through a central hub.  
+Users can manage devices (Lights, Thermostats, Door Locks), schedule their operations, and automate tasks with triggers.
 
 Features
 - Add/remove devices dynamically (Light, Thermostat, Door Lock).  
