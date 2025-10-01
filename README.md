@@ -49,8 +49,8 @@ Overview-> Tech Stack-> Feature -> Example(with Screenshots)
 ### Author
 
 Developed by Sangeetha Priya
-📧 Gmail: ssp04sankar@gmail.com
-🐙 GitHub: Sangeethagithu
+ Gmail: ssp04sankar@gmail.com
+ GitHub: Sangeethagithu
 
 
 
